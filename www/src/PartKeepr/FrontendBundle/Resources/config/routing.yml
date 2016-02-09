@@ -1,3 +1,0 @@
-_index:
-    resource: "@PartKeeprFrontendBundle/Controller/IndexController.php"
-    type:     annotation
